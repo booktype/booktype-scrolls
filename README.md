@@ -16,7 +16,7 @@ WARNING: Before running any of these scripts you must load your environment vari
 
 ### scripts/wordpress
 
-Basic import funcionality from Wordpress export file.
+Basic import functionality from Wordpress export file.
 
 ### scripts/replace
 
@@ -32,9 +32,15 @@ Snippets
 
 ### snippets/users.md
 
+Sort book owners and list user registration by month
+
 ### snippets/license.md
 
+Find the popularity of copyright or copyleft licenses
+
 ### snippets/books.md
+
+List book creation by month
 
 Author
 ------
